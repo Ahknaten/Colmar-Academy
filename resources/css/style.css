@@ -199,7 +199,7 @@ h5 {
 
 /* Learning Section */
 
-  .majors-container {
+  .courses-container {
     background-color: #f5f4f5;
     display: flex;
     flex-direction: column;
@@ -207,7 +207,7 @@ h5 {
     padding-bottom: 2rem;
   }
 
-  .majors-grid {
+  .courses-grid {
     display: none;
   }
 
@@ -215,7 +215,7 @@ h5 {
     display: none;
   }
 
-  .mobile-majors-grid {
+  .mobile-courses-grid {
     display: block;
     width: 90%;
     line-height: 1;
@@ -223,7 +223,7 @@ h5 {
 
   }
 
-  .mobile-majors-grid h2 {
+  .mobile-courses-grid h2 {
     color: #4a4a4a;
     font-size: 2rem;
     margin: 2rem auto;
@@ -231,14 +231,14 @@ h5 {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .2);
   }
 
-  .mobile-major {
+  .mobile-course {
     background-color: #d8d8d8;
     padding: 1rem;
     margin-bottom: .5rem;
     text-align: center;
   }
 
-  .mobile-major h4 {
+  .mobile-course h4 {
     font-size: 1.5rem;
     font-weight: normal;
     color: #4a4a4a;
@@ -553,15 +553,15 @@ h5 {
     font-family: 'Raleway', sans-serif;
   }
 
-  /* Majors */
-  .majors-container {
+  /* courses */
+  .courses-container {
     background-color: #eaebec;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
 
-  .majors-container h2 {
+  .courses-container h2 {
     font-family: 'Lato', sans-serif;
     font-size: 2rem;
     margin: 2rem 0;
@@ -570,18 +570,18 @@ h5 {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .2);
   }
 
-  .majors-grid {
+  .courses-grid {
     padding-bottom: 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
 
-  .mobile-majors-grid {
+  .mobile-courses-grid {
     display: none;
   }
 
-  .major {
+  .course {
     background-color: #fff;
     margin: 1rem;
     width: 25%;
@@ -590,17 +590,17 @@ h5 {
     -moz-box-shadow: -12px 11px 48px 0px rgba(74,74,74,0.75);
   }
 
-  .major img {
+  .course img {
     width: 100%;
   }
 
-  .major-text {
+  .course-text {
     height: 100%;
     padding: 1rem;
     line-height: 1.1;
   }
 
-  .major-text h4 {
+  .course-text h4 {
     font-family: 'Lato', sans-serif;
     font-size: 1.5rem;
     font-weight: bold;
@@ -608,12 +608,12 @@ h5 {
     color: #4a4a4a;
   }
 
-  .major-text h5 {
+  .course-text h5 {
     padding-bottom: .5rem;
     color: #4a4a4a;
   }
 
-  .major-text p {
+  .course-text p {
     padding-bottom: 1rem;
     color: #4a4a4a;
     font-family: 'Raleway', sans-serif;
