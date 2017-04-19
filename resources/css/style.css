@@ -512,7 +512,7 @@ h5 {
   .img-container img.computer-img {
     width: 90%;
     height: 90%;
-    border-radius: 6rem;
+    border-radius: 15rem;
   }
 
   .information-text {
@@ -700,7 +700,7 @@ h5 {
 
   .video-image-container img {
     width: 100%;
-    border-radius: 6rem;
+    border-radius: 15rem;
   }
 
   #video-callout {
